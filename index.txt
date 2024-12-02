@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Xiaoyan Ding
+Xiaoyan Ding
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+dingpro0606@gmail.com
 
 Phone
-+1 (213) 352-2795
++86 139-0425-2802
 
 Birthday
-June 23, 1982
+June 6, 5
 
 Location
-Sacramento, California, USA
+Guangzhou City, Guangdong Province, China
 
 # navbar
 
